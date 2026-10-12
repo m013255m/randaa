@@ -1,0 +1,6 @@
+{
+  "name": "د. راندا للتغذية العلاجية والحميات المتقدمة | Dr. Randa Clinical Nutrition",
+  "description": "الموقع الرسمي للدكتورة راندا استشاري التغذية العلاجية وعلاج السمنة والنحافة وتوازن الهرمونات. برامج غذائية علمية مخصصة، حاسبة مؤشر كتلة الجسم والسعرات، وموسوعة طبية شاملة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

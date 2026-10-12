@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Allow: /?page=home
+Allow: /?page=about
+Allow: /?page=programs
+Allow: /?page=conditions
+Allow: /?page=success-stories
+Allow: /?page=calculators
+Allow: /?page=recipes
+Allow: /?page=blog
+Allow: /?page=faq
+Allow: /?page=booking
+Allow: /?page=seo-sitemap
+
+Sitemap: /sitemap.xml
